@@ -1,1 +1,4 @@
 This repository just holds a few CV programs I did during my studies
+It requires Github repository: https://github.com/albertoruiz/umucv
+It is a repository maintained by my university teacher that is mostly used for the autoStream function that feeds the program video or images either from local files or received in a specific port.
+All other requirements should be common for any CV project (OpenCV, sklearn, etc.)
